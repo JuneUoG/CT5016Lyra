@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\s2118809\\documents\\github\\ct5016lyra 5.3\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\s2118809\\documents\\github\\ct5016lyra 5.3\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\s2118809\\documents\\github\\ct5016lyra 5.3\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "c:\\users\\s2118809\\documents\\github\\ct5016lyra 5.3\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\messages\\controlpointstatusmessage.h",
+            "c:\\users\\s2118809\\documents\\github\\ct5016lyra 5.3\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
